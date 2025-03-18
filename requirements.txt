@@ -1,0 +1,9 @@
+streamlit
+speechrecognition
+pyttsx3
+pypdf2
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+ollama
